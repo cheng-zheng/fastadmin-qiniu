@@ -1,5 +1,5 @@
 Fastadmin 七牛云上传插件
-放在addnos目录下
+放在addnos目录下 插件命名为“qiniu”
 
 修改application/extra/addnos.php
 
