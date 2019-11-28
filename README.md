@@ -39,3 +39,6 @@ Fastadmin 七牛云上传插件
         };
     });
 ```
+
+
+https://www.fastadmin.net/store/qiniu.html
